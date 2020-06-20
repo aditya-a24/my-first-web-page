@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css?family=Metal+Mania");
+
+@font-face{
+    font-family: "candy-script";
+    src: url("fonts/Candy\ Script.ttf");
+}
+
+html{
+    margin: 0;
+}
+
+body{
+    background-color: #f4f4f4;
+    margin: 0;
+}
+.mainheader{
+    text-decoration: none; 
+    background-image: url("images/galaxy-wallpapers-10.jpg");
+    background-size: 100% 100%;
+    background-clip: padding-box;
+    background-repeat: no-repeat;
+    background-color: grey;
+    background-blend-mode: multiply;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    margin: 0;
+}
+.home{
+    text-align: center;
+    font-weight: lighter;
+    color: #f4f4f4;
+    font-family: cursive;
+}
+.nav{
+    padding: 0.1em;
+    border-bottom: 2px solid lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.nav a:hover{
+    background-color: #c5c5c586;
+    padding: 0.1em;
+}
+.nav li{
+    display: inline;
+    padding: 4em;
+}
+
+.nav a{
+    text-decoration: none;
+    color: #f4f4f4;
+}
+
+.name{
+    text-align: center;
+    font-family: "candy-script";
+    letter-spacing: 3px;
+    font-size: 3em;
+    word-spacing: 0.2em;
+    color: #d4b500;
+    margin: 0;
+}
+
+.container{
+    text-align: center;
+}
+
+.wiz-image{
+    text-align: center;
+    border-radius: 50%;
+}
+
+.songname{
+    text-align: center;
+    padding-left: 1.5em;
+    font-size: 2em;
+    font-family: cursive;
+    text-decoration: underline;
+    color: #f4f4f4;
+}
+
+.bgimage{
+    background-image: url("images/WIZ_KHALIFA_rap_rapper_hip_hop_gangsta_1wizk_weed_drugs_marijuana_420_1972x1972.jpg");
+    background-size: 100% 100%;
+    background-blend-mode: multiply;
+    background-color: rgba(0,0,0,0.8);
+    margin: 0;
+}
+
+.playlist{
+    text-align: center;
+    color: #d4b500;
+    font-family: "candy-script";
+    letter-spacing: 1px;
+    font-size: 1.3em;
+}
+
+.ulist2 li{
+    display: inline;
+   
+}
+.footer{
+    background-color: lightskyblue;
+    margin: 0;
+}
+.ulist2 {
+    text-align: center;
+    margin: 0;
+    border-bottom: 2px solid lightgray;
+}
+
+.ulist2 a{
+    padding: 0;
+    margin: 11px;
+    
+}
+
+.copyright{
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 0;
+    font-family: sans-serif;
+}
