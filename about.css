@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
 @font-face{
     font-family: "candy-script";
     src: url("fonts/Candy\ Script.ttf");
@@ -26,7 +26,7 @@ body{
     margin: 0;
 }
 
-.home{
+.about{
     text-align: center;
     font-weight: lighter;
     color: #f4f4f4;
@@ -67,22 +67,23 @@ body{
     margin: 0;
 }
 
-.container{
-    text-align: center;
+.sec1{
+    margin: 1.5em;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.para1{
+    font-family: raleway;
+    color: #f4f4f4;
+    letter-spacing: 0.5px;
+    margin: 0;
 }
 
 .wiz-image{
-    text-align: center;
+    float: left;
     border-radius: 50%;
-}
-
-.songname{
-    text-align: center;
-    padding-left: 1.5em;
-    font-size: 2em;
-    font-family: cursive;
-    text-decoration: underline;
-    color: #f4f4f4;
+    margin: 10px;
 }
 
 .bgimage{
@@ -93,18 +94,11 @@ body{
     margin: 0;
 }
 
-.playlist{
-    text-align: center;
-    color: #d4b500;
-    font-family: "candy-script";
-    letter-spacing: 1px;
-    font-size: 1.3em;
-}
-
 .ulist2 li{
     display: inline;
-   
+    margin: 0;
 }
+
 .footer{
     background-color: lightskyblue;
     margin: 0;
