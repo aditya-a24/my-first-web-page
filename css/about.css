@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
 @font-face{
     font-family: "candy-script";
-    src: url("fonts/Candy\ Script.ttf");
+    src: url("../fonts/Candy\ Script.ttf");
 }
 
 html{
@@ -15,7 +15,7 @@ body{
 
 .mainheader{
     text-decoration: none; 
-    background-image: url("images/galaxy-wallpapers-10.jpg");
+    background-image: url("../images/galaxy-wallpapers-10.jpg");
     background-size: 100% 100%;
     background-clip: padding-box;
     background-repeat: no-repeat;
@@ -87,7 +87,7 @@ body{
 }
 
 .bgimage{
-    background-image: url("images/WIZ_KHALIFA_rap_rapper_hip_hop_gangsta_1wizk_weed_drugs_marijuana_420_1972x1972.jpg");
+    background-image: url("../images/WIZ_KHALIFA_rap_rapper_hip_hop_gangsta_1wizk_weed_drugs_marijuana_420_1972x1972.jpg");
     background-size: 100% 100%;
     background-blend-mode: multiply;
     background-color: rgba(0,0,0,0.8);
